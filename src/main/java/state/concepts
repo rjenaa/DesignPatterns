@@ -1,0 +1,37 @@
+Localizes state behavior
+
+State Object
+
+Separates what from where
+
+OCP
+
+Abstract Class / Interface (default implementation)
+
+Class based
+
+Context unaware
+
+Context, State, ConcreteState
+
+(Can be thought of as contract)
+
+//
+Know your states
+
+More classes
+
+logic out of context
+
+state change triggers
+
+interfaced base
+
+transitins
+
+each state in its own class
+
+adding states easier, simplifies, more classes,
+
+
+
